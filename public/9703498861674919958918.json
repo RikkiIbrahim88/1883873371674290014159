@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782148110171",
+    "project_id": "number-puzzle-jigsaw",
+    "storage_bucket": "number-puzzle-jigsaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782148110171:android:fa94345f9e49b3be777c7e",
+        "android_client_info": {
+          "package_name": "com.raidev.classicslidepuzzle.jigsawpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782148110171-4b0o9502b59nnkia9jgmbi4gmk2os04p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbH8YizT8vy1UiAjVrkz7n48n7C-NTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782148110171-4b0o9502b59nnkia9jgmbi4gmk2os04p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
